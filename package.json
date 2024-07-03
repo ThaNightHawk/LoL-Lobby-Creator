@@ -1,0 +1,24 @@
+{
+  "name": "lol-aram-inviter",
+  "version": "1.0.0",
+  "description": "A Script that helps you create custom ARAM games and invite people faster",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "npm run build && node dist/index.js"
+  },
+  "dependencies": {
+    "@types/node": "^20.4.0",
+    "axios": "^1.7.2",
+    "figlet": "^1.7.0",
+    "typescript": "^5.1.3"
+  },
+  "devDependencies": {
+    "globals": "^15.8.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "author": "ThaNightHawk",
+  "license": "MIT"
+}
