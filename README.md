@@ -9,3 +9,6 @@ It's blindpick because my friendgroup use a "3 random"-rule, where We press "Ran
 - Search for individual players (RIOT#ID)
 - List people currently added to the invite list
 - Automatically create lobby and invite people from "ARAM"-group on friendslist.
+<br>
+How to use?<br>
+Run `yarn` and then `yarn start`
